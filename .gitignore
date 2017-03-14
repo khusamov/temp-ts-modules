@@ -1,3 +1,4 @@
+temp
 node_modules
 modules2
 src0
@@ -9,4 +10,4 @@ nodemon.json
 GLOBALROADMAP.md
 typings.d.ts
 
-/package.json
+package.original.json

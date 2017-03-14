@@ -1,0 +1,15 @@
+{
+  "name": "temp-ts-modules",
+  "description": "Как создавать правильно модули на Typescript для NPM и Node.js?",
+  "main": "src/index.ts",
+  "scripts": {
+    "start2": "NODE_PATH=${GOPATH}/modules nodemon --exec $(npm bin)/ts-node -- ./src/index.ts",
+    "start": "$(npm bin)/ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^2.2.1",
+    "ts-node": "^2.1.0"
+  },
+  "dependencies": {
+  }
+}
