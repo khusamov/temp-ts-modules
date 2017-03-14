@@ -1,0 +1,12 @@
+node_modules
+modules2
+src0
+src1
+src2
+README.md
+
+nodemon.json
+GLOBALROADMAP.md
+typings.d.ts
+
+/package.json

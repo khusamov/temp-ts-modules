@@ -1,0 +1,5 @@
+{
+  "name": "test-module",
+  "main": "./dist/index.js",
+  "typings": "index.d.ts"
+}
